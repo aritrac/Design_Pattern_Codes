@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Behavioural_ChainOfResponsibiltyPattern/Behavioural_ChainOfResponsibiltyPattern.iml" filepath="$PROJECT_DIR$/Behavioural_ChainOfResponsibiltyPattern/Behavioural_ChainOfResponsibiltyPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioural_CommandPattern/Behavioural_CommandPattern.iml" filepath="$PROJECT_DIR$/Behavioural_CommandPattern/Behavioural_CommandPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioural_DataAccessObjectPattern/Behavioural_DataAccessObjectPattern.iml" filepath="$PROJECT_DIR$/Behavioural_DataAccessObjectPattern/Behavioural_DataAccessObjectPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioural_InterpreterPattern/Behavioural_InterpreterPattern.iml" filepath="$PROJECT_DIR$/Behavioural_InterpreterPattern/Behavioural_InterpreterPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioural_IteratorPattern/Behavioural_IteratorPattern.iml" filepath="$PROJECT_DIR$/Behavioural_IteratorPattern/Behavioural_IteratorPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioural_MVCPattern/Behavioural_MVCPattern.iml" filepath="$PROJECT_DIR$/Behavioural_MVCPattern/Behavioural_MVCPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioural_MediatorPattern/Behavioural_MediatorPattern.iml" filepath="$PROJECT_DIR$/Behavioural_MediatorPattern/Behavioural_MediatorPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioural_NullObjectPattern/Behavioural_NullObjectPattern.iml" filepath="$PROJECT_DIR$/Behavioural_NullObjectPattern/Behavioural_NullObjectPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioural_ObserverPattern/Behavioural_ObserverPattern.iml" filepath="$PROJECT_DIR$/Behavioural_ObserverPattern/Behavioural_ObserverPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioural_StatePattern/Behavioural_StatePattern.iml" filepath="$PROJECT_DIR$/Behavioural_StatePattern/Behavioural_StatePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioural_StrategyPattern/Behavioural_StrategyPattern.iml" filepath="$PROJECT_DIR$/Behavioural_StrategyPattern/Behavioural_StrategyPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioural_TemplatePattern/Behavioural_TemplatePattern.iml" filepath="$PROJECT_DIR$/Behavioural_TemplatePattern/Behavioural_TemplatePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioural_VisitorPattern/Behavioural_VisitorPattern.iml" filepath="$PROJECT_DIR$/Behavioural_VisitorPattern/Behavioural_VisitorPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational_AbstractFactoryPattern/Creational_AbstractFactoryPattern.iml" filepath="$PROJECT_DIR$/Creational_AbstractFactoryPattern/Creational_AbstractFactoryPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational_BuilderPattern/Creational_BuilderPattern.iml" filepath="$PROJECT_DIR$/Creational_BuilderPattern/Creational_BuilderPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational_FactoryPattern/Creational_FactoryPattern.iml" filepath="$PROJECT_DIR$/Creational_FactoryPattern/Creational_FactoryPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational_PrototypePattern/Creational_PrototypePattern.iml" filepath="$PROJECT_DIR$/Creational_PrototypePattern/Creational_PrototypePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational_SingletonPattern/Creational_SingletonPattern.iml" filepath="$PROJECT_DIR$/Creational_SingletonPattern/Creational_SingletonPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural_AdapterPattern/Structural_AdapterPattern.iml" filepath="$PROJECT_DIR$/Structural_AdapterPattern/Structural_AdapterPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural_BridgePattern/Structural_BridgePattern.iml" filepath="$PROJECT_DIR$/Structural_BridgePattern/Structural_BridgePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural_CompositePattern/Structural_CompositePattern.iml" filepath="$PROJECT_DIR$/Structural_CompositePattern/Structural_CompositePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural_DecoratorPattern/Structural_DecoratorPattern.iml" filepath="$PROJECT_DIR$/Structural_DecoratorPattern/Structural_DecoratorPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural_FacadePattern/Structural_FacadePattern.iml" filepath="$PROJECT_DIR$/Structural_FacadePattern/Structural_FacadePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural_FilterPattern/Structural_FilterPattern.iml" filepath="$PROJECT_DIR$/Structural_FilterPattern/Structural_FilterPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural_ProxyPattern/Structural_ProxyPattern.iml" filepath="$PROJECT_DIR$/Structural_ProxyPattern/Structural_ProxyPattern.iml" />
+    </modules>
+  </component>
+</project>
